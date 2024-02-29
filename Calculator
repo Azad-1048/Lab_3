@@ -1,2 +1,13 @@
 cout << "My  name is :" << "Muhammad Ibrar";
 cout << "My roll number is :" << "23-set-047";
+#include<iostream>
+using namespace std;
+int main
+{
+cout << "add a and b" << a+b;
+cout << "sub a and b" << a-b;
+cout << "Multi a and b" << a*b;
+cout << "Divi a and b" << a/b;
+
+return 0;
+}
