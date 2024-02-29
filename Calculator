@@ -5,5 +5,7 @@ using namespace std;
 int main
 {
 cout << "add a and b" << a+b;
+cout << "sub a and b" << a-b;
+
 return 0;
 }
